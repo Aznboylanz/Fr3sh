@@ -2,3 +2,9 @@
 body{
   background-color: Red:
 }
+header h1{
+  line-height: 150px;
+  font-size: 100px;
+  font-family: Arial;
+  padding: 20px auto;
+}

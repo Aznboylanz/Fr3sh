@@ -1,11 +1,8 @@
 body{
-
+background-color: lightcoral;
 }
 body .background{
-  max-height: 800px;
-  max-width: auto;
-  background-image: url(adidas.jpg);
-  opacity: 50%;
+
 
 }
 .nav{

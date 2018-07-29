@@ -28,19 +28,21 @@ body .background{
 
 .intro{
   background-color: azure;
+  opacity: 50%;
 
 
 }
 
 .intro h2{
   font-weight: bold;
-  font-size: 80px;
+  font-size: 50px;
 }
 
   .intro p {
     font-family: sans-serif;
-    font-size: 50px;
+    font-size: 30px;
     color: black;
+    text-align:left;
 
   }
   /*paragraph 1 ends*/

@@ -2,11 +2,16 @@ body{
 
 }
 body .background{
-  height: inherit;
-  width: auto;
+  max-height: 800px;
+  max-width: auto;
   background-image: url(adidas.jpg);
+  opacity: 50%;
+
 }
 .nav{
-  position: relative; 
+  position: relative;
 
+}
+#conan{
+  padding: 10px;
 }

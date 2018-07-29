@@ -24,3 +24,23 @@ body .background{
     letter-spacing: 1px;
     color: white;
     font-size:
+ }/*header ends*/
+
+.intro{
+  background-color: azure;
+
+
+}
+
+.intro h2{
+  font-weight: bold;
+  font-size: 80px;
+}
+
+  .intro p {
+    font-family: sans-serif;
+    font-size: 50px;
+    color: black;
+
+  }
+  /*paragraph 1 ends*/

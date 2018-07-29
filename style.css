@@ -1,5 +1,12 @@
 body{
-  height:auto;
-  width:auto;
+
+}
+body .background{
+  height: inherit;
+  width: auto;
   background-image: url(adidas.jpg);
+}
+.nav{
+  position: relative; 
+
 }

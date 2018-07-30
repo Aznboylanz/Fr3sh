@@ -29,10 +29,8 @@ body .background{
 
 .intro{
   background-color: azure;
-  opacity: 10%;
-  border-radius: 50%;
-
-
+  opacity: .3;
+  border-radius: 80%;
 }
 
 .intro h2{

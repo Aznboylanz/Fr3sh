@@ -17,14 +17,16 @@ body .background{
 
 }
 .nav{
-  position: relative;
+  float: right;
+  word-spacing: 50px;
+
 
 
 }
 .nav ul{
     letter-spacing: 1px;
     color: white;
-    font-size:
+    font-size: 45px;
  }/*header ends*/
 
 .intro{

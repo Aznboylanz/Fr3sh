@@ -1,8 +1,8 @@
 body{
     box-sizing: border-box;
-    position: fixed;
+}
 
-background-image: url('Sword-Art-Online-Kirito-Dual-Wields-4.jpg')
+background-image: url(Sword-Art-Online-Kirito-Dual-Wields-4.jpg)
 }
 body .background{
 
@@ -14,12 +14,12 @@ body .background{
     border
 
 }
+header {
+  position: relative;
+}
 .nav{
   float: right;
   word-spacing: 50px;
-
-
-
 }
 .nav ul{
     letter-spacing: 1px;
@@ -30,7 +30,7 @@ body .background{
 .intro{
   background-color: azure;
   opacity: .3;
-  border-radius: 80%;
+
 }
 
 .intro h2{
